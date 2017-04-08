@@ -157,6 +157,23 @@ GenerateClassCluster=0
 DocumentUniqueId=GXVCIBWG
 
 [Document8]
+DocumentPath=Source\Actuator.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=ENBOXGUR
+
+[Document9]
 DocumentPath=Source\BMP280.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -173,7 +190,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=WOHKACXB
 
-[Document9]
+[Document10]
 DocumentPath=Source\Connectors.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -190,7 +207,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ENBOXGUR
 
-[Document10]
+[Document11]
 DocumentPath=PCB\RIO_rev1.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
