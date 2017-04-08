@@ -208,24 +208,24 @@ GenerateClassCluster=0
 DocumentUniqueId=TWRVRHRD
 
 [Parameter1]
-Name=GlobalRevisionDate
-Value=3/11/2017
+Name=GlobalProjectLink
+Value=https://github.com/ptbrown35/RPL_Avionics
 
 [Parameter2]
-Name=GlobalProjectTeam
-Value=Rocket Prop Lab
+Name=GlobalProjectName
+Value=RIO_rev1
 
 [Parameter3]
 Name=GlobalProjectRevision
 Value=Rev 1
 
 [Parameter4]
-Name=GlobalProjectName
-Value=RIO_rev1
+Name=GlobalProjectTeam
+Value=Rocket Prop Lab
 
 [Parameter5]
-Name=GlobalProjectLink
-Value=https://github.com/ptbrown35/RPL_Avionics
+Name=GlobalRevisionDate
+Value=3/11/2017
 
 [Configuration1]
 Name=Default Configuration
