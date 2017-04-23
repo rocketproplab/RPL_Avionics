@@ -69,7 +69,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=RJBIRDPI
+DocumentUniqueId=IIKQHGXL
 
 [Document3]
 DocumentPath=Settings\Outputs.OutJob
@@ -225,6 +225,23 @@ GenerateClassCluster=0
 DocumentUniqueId=TWRVRHRD
 
 [Document12]
+DocumentPath=Libraries\General.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=ALWWENSY
+
+[Document13]
 DocumentPath=Libraries\D38999 connectors.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -241,7 +258,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=BCQVUMRE
 
-[Document13]
+[Document14]
 DocumentPath=Libraries\D38999 footprints.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -258,7 +275,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document14]
+[Document15]
 DocumentPath=Source\Connectors.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -275,7 +292,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document15]
+[Document16]
 DocumentPath=Source\Actuator.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -292,7 +309,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document16]
+[Document17]
 DocumentPath=Source\ADC.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -309,7 +326,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document17]
+[Document18]
 DocumentPath=Source\Controller.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -326,7 +343,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document18]
+[Document19]
 DocumentPath=Source\BMP280.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -343,7 +360,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document19]
+[Document20]
 DocumentPath=Libraries\History\Imported BMP280.lia\BMP280.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -360,7 +377,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document20]
+[Document21]
 DocumentPath=Libraries\History\Imported BMP280.lia\BMP280.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -377,7 +394,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document21]
+[Document22]
 DocumentPath=Libraries\Imported QFN-32_UH-L.lia\QFN-32_UH-L.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -394,7 +411,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document22]
+[Document23]
 DocumentPath=Libraries\LAN ETH schem.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -411,7 +428,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document23]
+[Document24]
 DocumentPath=Libraries\SMD Resistors.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -426,9 +443,9 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=TBCIVJYU
 
-[Document24]
+[Document25]
 DocumentPath=Libraries\SMD Resistors.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1116,7 +1133,7 @@ OutputDefault9=0
 [OutputGroup10]
 Name=PostProcess Outputs
 Description=
-TargetPrinter=Microsoft Print to PDF
+TargetPrinter=Send To OneNote 2016
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Copy Files
 OutputName1=Copy Files
