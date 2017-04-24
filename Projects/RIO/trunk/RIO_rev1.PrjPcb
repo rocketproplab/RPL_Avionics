@@ -69,7 +69,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=IIKQHGXL
+DocumentUniqueId=MVVTBFIF
 
 [Document3]
 DocumentPath=Settings\Outputs.OutJob
@@ -106,6 +106,40 @@ GenerateClassCluster=0
 DocumentUniqueId=UAFLMAKM
 
 [Document5]
+DocumentPath=Source\ADC.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=WYVVRXFT
+
+[Document6]
+DocumentPath=Source\PowerManagement.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=XRCUIYNX
+
+[Document7]
 DocumentPath=Source\Controller.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -122,7 +156,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XDSUKOGR
 
-[Document6]
+[Document8]
 DocumentPath=Source\Ethernet.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -139,24 +173,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JEYTVUUO
 
-[Document7]
-DocumentPath=Source\ADC.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=GXVCIBWG
-
-[Document8]
+[Document9]
 DocumentPath=Source\Actuator.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -173,7 +190,24 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ENBOXGUR
 
-[Document9]
+[Document10]
+DocumentPath=Source\AnalogConnectors.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=QEDFMRBN
+
+[Document11]
 DocumentPath=Source\BMP280.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -190,24 +224,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=WOHKACXB
 
-[Document10]
-DocumentPath=Source\Connectors.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=3
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=FAAPCKBE
-
-[Document11]
+[Document12]
 DocumentPath=PCB\RIO_rev1.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -224,7 +241,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=TWRVRHRD
 
-[Document12]
+[Document13]
 DocumentPath=Libraries\General.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -241,7 +258,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ALWWENSY
 
-[Document13]
+[Document14]
 DocumentPath=Libraries\D38999 connectors.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -258,25 +275,8 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=BCQVUMRE
 
-[Document14]
-DocumentPath=Libraries\D38999 footprints.PcbLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
 [Document15]
-DocumentPath=Source\Connectors.Harness
+DocumentPath=Libraries\D38999 footprints.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -310,23 +310,6 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document17]
-DocumentPath=Source\ADC.Harness
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document18]
 DocumentPath=Source\Controller.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -343,7 +326,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document19]
+[Document18]
 DocumentPath=Source\BMP280.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -360,7 +343,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document20]
+[Document19]
 DocumentPath=Libraries\History\Imported BMP280.lia\BMP280.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -377,7 +360,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document21]
+[Document20]
 DocumentPath=Libraries\History\Imported BMP280.lia\BMP280.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -394,7 +377,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document22]
+[Document21]
 DocumentPath=Libraries\Imported QFN-32_UH-L.lia\QFN-32_UH-L.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -411,7 +394,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document23]
+[Document22]
 DocumentPath=Libraries\LAN ETH schem.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -428,7 +411,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document24]
+[Document23]
 DocumentPath=Libraries\SMD Resistors.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -445,7 +428,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=TBCIVJYU
 
-[Document25]
+[Document24]
 DocumentPath=Libraries\SMD Resistors.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -461,6 +444,40 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
+
+[Document25]
+DocumentPath=Source\Connectors.Harness
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document26]
+DocumentPath=Source\Connectors.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=QXAKIQXB
 
 [Parameter1]
 Name=GlobalProjectLink

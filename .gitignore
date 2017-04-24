@@ -1,3 +1,8 @@
+# ignore alitum history files and previews
+.SchDocPreview
+__Previews/
+History/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
