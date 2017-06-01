@@ -38,23 +38,6 @@ PrefsVaultGUID=
 PrefsRevisionGUID=
 
 [Document1]
-DocumentPath=..\Imported QFN-32_UH-L.lia\QFN-32_UH-L.PcbLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=NCHGNWYB
-
-[Document2]
 DocumentPath=General.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -71,41 +54,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ALWWENSY
 
-[Document3]
-DocumentPath=..\History\Imported BMP280.lia\BMP280.SchLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=YLKGCTRI
-
-[Document4]
-DocumentPath=..\History\Imported BMP280.lia\BMP280.PcbLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=RMFNKJTI
-
-[Document5]
+[Document2]
 DocumentPath=ethernet connector.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -120,9 +69,9 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=BLRMIJJK
 
-[Document6]
+[Document3]
 DocumentPath=Fiducial.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -137,9 +86,9 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=QSWPWBBM
 
-[Document7]
+[Document4]
 DocumentPath=LAN ETH schem.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -156,7 +105,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=DWEBRVVO
 
-[Document8]
+[Document5]
 DocumentPath=QFN.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -171,9 +120,9 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=GQMBPDTM
 
-[Document9]
+[Document6]
 DocumentPath=SOT.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -188,9 +137,9 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=LLSXGIDJ
 
-[Document10]
+[Document7]
 DocumentPath=Stamp.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -205,7 +154,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=PNDKIOFG
+DocumentUniqueId=UILAXCAY
 
 [OutputGroup1]
 Name=Netlist Outputs
